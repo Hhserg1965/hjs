@@ -1,0 +1,47 @@
+libmemcached/clients_memcapable-byteorder.o: libmemcached/byteorder.cc \
+ mem_config.h /usr/include/c++/4.4/cinttypes /usr/include/c++/4.4/cstdint \
+ /usr/include/c++/4.4/x86_64-linux-gnu/bits/c++config.h \
+ /usr/include/c++/4.4/x86_64-linux-gnu/bits/os_defines.h \
+ /usr/include/features.h /usr/include/bits/predefs.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/c++/4.4/x86_64-linux-gnu/bits/cpu_defines.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h \
+ /usr/include/c++/4.4/tr1_impl/cstdint /usr/include/inttypes.h \
+ /usr/include/c++/4.4/tr1_impl/cinttypes libmemcached/byteorder.h
+
+mem_config.h:
+
+/usr/include/c++/4.4/cinttypes:
+
+/usr/include/c++/4.4/cstdint:
+
+/usr/include/c++/4.4/x86_64-linux-gnu/bits/c++config.h:
+
+/usr/include/c++/4.4/x86_64-linux-gnu/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/bits/predefs.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/c++/4.4/x86_64-linux-gnu/bits/cpu_defines.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/c++/4.4/tr1_impl/cstdint:
+
+/usr/include/inttypes.h:
+
+/usr/include/c++/4.4/tr1_impl/cinttypes:
+
+libmemcached/byteorder.h:
