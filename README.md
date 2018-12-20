@@ -23,7 +23,7 @@ Look at [Bitches Brew](./bb.cpp  "bb.cpp ")  as [Miles](https://en.wikipedia.org
 **hjs** have a graphical user interface [gui.cpp](./gui.cpp)  
 linked with `-lcurl -lz -lv8 QT += core gui sql webkit`  
 [fever test example](./bin/in.js) [screenshorts](./screens) [1](./screens/1.png)
-[2](./screens/2.png) [2](./screens/2.png)
+[2](./screens/2.png) [3](./screens/3.png)
 
 #### API je
 
